@@ -14,3 +14,4 @@ public class CreateTopicMsg extends Message {
 	// Complete the constructor, get/set-methods, and toString method
     // as described in the project text	
 }
+ 
